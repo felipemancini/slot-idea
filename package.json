@@ -1,0 +1,11 @@
+{
+  "name": "slot-idea",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:remunizz/slot-idea.git",
+  "author": "Renan Muniz <renan@renanmuniz.com>",
+  "license": "MIT",
+  "scripts": {
+  	"start": "node index.js"
+  }
+}
